@@ -77,3 +77,27 @@ The goal is to build a functional web app that allows users to browse property l
 - Facilitate agile processes
 - Remove blockers
 - Organize meetings
+## UI Component Patterns
+
+### Navbar
+- Logo
+- Search bar
+- User navigation
+- Responsive menu
+
+### Property Card
+- Property image
+- Basic details (price, location, rating)
+- Favorite button
+- Responsive layout
+
+### Footer
+- Site links
+- Company information
+- Social media links
+- Copyright information
+
+**Notes:**
+- Each component will be reusable across multiple pages
+- Consistency in design (colors, typography) will follow the style guide
+- Must be mobile-responsive
